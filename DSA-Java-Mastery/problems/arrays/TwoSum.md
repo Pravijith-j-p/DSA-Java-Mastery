@@ -13,13 +13,13 @@
  check all pairs using nested loops:
 
 ---------------------------------------
-for (int i=0; i< nums.length; i++){
-    for (int j = i + 1; j < nums.length; j++) {
-        if (nums[i] + nums[j] == target) {
-            return new int[]{i, j};
+    for (int i=0; i< nums.length; i++){
+        for (int j = i + 1; j < nums.length; j++) {
+            if (nums[i] + nums[j] == target) {
+                return new int[]{i, j};
+            }
         }
     }
-}
 ---------------------------------------
 
  Time Complexity: O(n^2) -> too slow for large inputs
@@ -40,9 +40,9 @@ Why it works:
 -> Hashmap allows O(1) loopup, so we only traverse the array once -> O(n) time
 ---------------------------------------
 
-import java.util.HashMap;
+    import java.util.HashMap;
 
-public class TwoSum {
+    public class TwoSum {
 
     public int [] twoSum (int []nums, int target){
         HaspMap<Integer, Integer> map = new HasMap<>;   //num -> index
@@ -112,16 +112,16 @@ Leetcode : 167
 - use two pointers instead of Hashmap
 - Time : O(n) Space : O(1)
 
-public int [] two SumSorted(int [] numbers, int target) {
-    int left = 0, right = numbers.length - 1;
-    while (left < right){
-        int sum = numbers[left] + numbers[right];
-        if (sum == target) return new int [] {left+1, right+1};         //1 - indexed
-        elseif (sum < target) left ++ ;
-        else right -- ;
-    }
-    return new int [] {};
-}
+       public int [] two SumSorted(int [] numbers, int target) {
+           int left = 0, right = numbers.length - 1;
+           while (left < right){
+               int sum = numbers[left] + numbers[right];
+               if (sum == target) return new int [] {left+1, right+1};         //1 - indexed
+               elseif (sum < target) left ++ ;
+               else right -- ;
+           }
+           return new int [] {};
+       }
 
 Two Sum IV - input is a BST
 
@@ -144,22 +144,22 @@ This is basically two sum in arrays , but now the input is structured as a tree:
     otherwise, add node.val to the set and continue DFS.
 
 
-public boolean findTarget(Treenode root, int k){
-    HashSet<Integer> set =new HashSet<>();
-    return dfs(root, k, set);
-}
+      public boolean findTarget(Treenode root, int k){
+          HashSet<Integer> set =new HashSet<>();
+          return dfs(root, k, set);
+      }
+      
+      private boolean dfs(TreeNode node, int k, HashSet<Integer> set){
+          if(node == null) return false;
+          if(set.contains(k - node.val)) return true;
+          set.add(node.val);
+          return dfs(node.left, k, set) || dfs(node.right, k, set);
+      }
 
-private boolean dfs(TreeNode node, int k, HashSet<Integer> set){
-    if(node == null) return false;
-    if(set.contains(k - node.val)) return true;
-    set.add(node.val);
-    return dfs(node.left, k, set) || dfs(node.right, k, set);
-}
 
+EXAMPLE:
 
-Example:
-
-    5
+   5
    / \
   3   6
  / \    \
