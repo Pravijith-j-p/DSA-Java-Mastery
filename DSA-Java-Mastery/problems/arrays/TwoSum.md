@@ -172,3 +172,37 @@ input k = 9
 - visit 2 -> store {5, 3, 2}
 - visit 4 -> complement = 9 - 4 =5 ->found
 
+
+
+
+                                    ┌─────────────┐
+                                    │   Two Sum   │
+                                    │  LeetCode 1 │
+                                    └─────┬───────┘
+                                        │
+                            ┌──────────────┴───────────────┐
+                            │                              │
+                ┌───────────────┐                ┌───────────────┐
+                │  Unsorted     │                │   Sorted      │
+                │  Array        │                │  Array        │
+                │  HashMap      │                │ Two Pointers  │
+                └───────────────┘                └───────────────┘
+                            │                              │
+                - Traverse array once             - Initialize left & right pointers
+                - Store complement → index       - Sum = nums[left] + nums[right]
+                - Check map.contains             - Move pointers based on sum
+                - O(n) time, O(n) space         - O(n) time, O(1) space
+
+                            │
+                ┌────────┴─────────┐
+                │  BST / Tree      │
+                │  Two Sum IV      │
+                │  LeetCode 653    │
+                └────────┬─────────┘
+                            │
+                - DFS traversal
+                - HashSet to store visited node values
+                - Check if (k - node.val) exists
+                - O(n) time, O(n) space
+
+

@@ -150,4 +150,14 @@ Step 2: i = 1(num = 3)
     temMin  = min(-2, 6*-2, 3 *  -2) = min(-2, -12, -6) = -12
     result = max (6, 2) = 6
 
-    
+ Step 4: i = 3(num = 4)
+
+    tempMax = max (4, -2*4, -12*4) = max(4, -8, -48) = 4
+    tempMin = min(4, -2*4, -12*4) = min(4, -8, -48) = -48
+
+    maxProd = 4
+    minProd = -48
+    result = max (6,4) = 6
+
+✅ Final Answer = 6
+
