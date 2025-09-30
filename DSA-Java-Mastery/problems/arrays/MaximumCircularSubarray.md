@@ -49,3 +49,11 @@ Formula :
 Time complexity : O(n) - single pass
 Space complexity : 0(1) - constant space
 
+Example:
+  nums=[5, -3, 5]
+
+    | Index | num | curMax (Kadane)     | maxSum        | curMin (Min Subarray) | minSum          | total        |
+    | ----- | --- | ------------------- | ------------- | --------------------- | --------------- | ------------ |
+    | 0     | 5   | 5                   | 5             | 5                     | 5               | 5            |
+    | 1     | -3  | max(-3, 5+(-3)) = 2 | max(5, 2) = 5 | min(-3, 5+(-3)) = -3  | min(5, -3) = -3 | 5 + (-3) = 2 |
+    | 2     | 5   | max(5, 2+5) = 7     | max(5, 7) = 7 | min(5, -3+5) = 2      | min(-3, 2) = -3 | 2 + 5 = 7    |
