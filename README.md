@@ -10,17 +10,17 @@ It includes:
 📂 Topics & Problems
 Arrays
 
-Two Sum (LeetCode 1) [Two Sum](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/TwoSum.md)
+Two Sum (LeetCode 1) [Two Sum]  -> (https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/TwoSum.md)
 
-Maximum Subarray (LeetCode 53)
+Maximum Subarray (LeetCode 53)  -> https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumSubArray.md
 
-Maximum Product Subarray (LeetCode 152)
+Rotate Array (LeetCode 189)     -> https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/RotateArray.md
 
-Rotate Array (LeetCode 189)
+Container With Most Water (LeetCode 11)   -> https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/ContainerWithMostWater.md
 
-Container With Most Water (LeetCode 11)
+Trapping Rain Water (LeetCode 42)  -> https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/TrappingRainWater.md
 
-Trapping Rain Water (LeetCode 42)
+ProductOfArrayExceptSelf (Leetcode 238)  -> https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/ProductOfArrayExceptSelf.md
 
 HashMap / HashSet
 
