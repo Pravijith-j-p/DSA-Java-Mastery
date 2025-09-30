@@ -10,7 +10,7 @@ It includes:
 📂 Topics & Problems
 Arrays
 
-Two Sum (LeetCode 1) [Two Sum](https://github.com/yourusername/DSA-Java-Mastery/blob/main/problems/arrays/twoSum.md)
+Two Sum (LeetCode 1) [Two Sum](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/TwoSum.md)
 
 Maximum Subarray (LeetCode 53)
 
