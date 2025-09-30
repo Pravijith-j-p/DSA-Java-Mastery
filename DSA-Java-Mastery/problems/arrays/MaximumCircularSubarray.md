@@ -46,6 +46,20 @@ Formula :
             return maxSum > 0 ? Math.max(maxSum, total - minSum) : maxSum;
         }
 
+
+    maxSum -> maximum subarray sum without wrap-around (normal Kadane).
+    total - minSum -> Maximum subarray with wrap around:
+        
+        total - sum of all elements
+        minSum = sum of the minimum subarray (subarray we exclude to get the wrap-around max)
+        So , total - minSum = sum of remaining elements, i.e., wrap around subarray sum
+
+        maxSum > 0 ?... : maxSum -> why check max> 0?
+         if all elements are negative , then:
+            total - minSum = total - total = 0 (wrong)
+            but the correct answer should be largest element , which is maxSum
+        This check ensures we don't return 0 incorrectly when all numbers are negative.
+
 Time complexity : O(n) - single pass
 Space complexity : 0(1) - constant space
 
@@ -57,3 +71,4 @@ Example:
     | 0     | 5   | 5                   | 5             | 5                     | 5               | 5            |
     | 1     | -3  | max(-3, 5+(-3)) = 2 | max(5, 2) = 5 | min(-3, 5+(-3)) = -3  | min(5, -3) = -3 | 5 + (-3) = 2 |
     | 2     | 5   | max(5, 2+5) = 7     | max(5, 7) = 7 | min(5, -3+5) = 2      | min(-3, 2) = -3 | 2 + 5 = 7    |
+
