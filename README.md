@@ -34,26 +34,10 @@ Arrays
 | Search In Rotated Sorted Array  | 33         | Modified Binary Search        | https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/SearchInRotatedSortedArray.md                               |
 
 
-HashMap / HashSet
+Strings 
 
-Two Sum Variants (LeetCode 167, 653)
+| Problem                         | LeetCode # | Pattern / Key Idea            | Link                                                                                                                                    |
+| ------------------------------- | ---------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| LongestSubStringWithoutRepeating Characters | 33    | Sliding window + HashSet| https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_SubString_Without_Repeating_characters.md         |
+| LongestSubStringwithAtMostKDistinctCharacters| 340  | SlidingWindow + HashMap | https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md   |
 
-Sliding Window
-
-To be added…
-
-Linked List
-
-To be added…
-
-Stacks / Queues
-
-To be added…
-
-Trees / BST
-
-To be added…
-
-Graphs / DFS-BFS
-
-To be added…
