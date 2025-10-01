@@ -6,10 +6,12 @@ It includes:
 📘 Daily notes (theory + examples)
 💻 Java solutions to LeetCode/GFG problems
 🛠 Roadmap for mastering DSA
+
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-✓-blue?style=for-the-badge&logo=tree)
 ![Algorithms](https://img.shields.io/badge/Algorithms-✓-red?style=for-the-badge&logo=codeforces)
 ![Learning](https://img.shields.io/badge/Learning-DSA-green?style=for-the-badge&logo=bookstack)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Study-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![DSA Streak](https://img.shields.io/badge/DSA-Streak🔥-success?style=for-the-badge)
 
 
 📂 Topics & Problems
