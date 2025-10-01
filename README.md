@@ -10,21 +10,20 @@ It includes:
 📂 Topics & Problems
 
 
-## Arrays
+| Problem                         | LeetCode # | Pattern / Key Idea            | Link                                                                                                                                    |
+| ------------------------------- | ---------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Two Sum                         | 1          | HashMap / Complement          | [Two Sum](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/TwoSum.md)                                        |
+| Maximum Subarray                | 53         | Kadane’s Algorithm            | [Maximum Subarray](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumSubArray.md)                      |
+| Rotate Array                    | 189        | Reverse / Modulo Indexing     | [Rotate Array](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/RotateArray.md)                              |
+| Container With Most Water       | 11         | Two Pointers                  | [Container With Most Water](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/ContainerWithMostWater.md)      |
+| Trapping Rain Water             | 42         | Two Pointers / Left-Right Max | [Trapping Rain Water](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/TrappingRainWater.md)                 |
+| Product of Array Except Self    | 238        | Prefix / Suffix Product       | [Product Of Array Except Self](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/ProductOfArrayExceptSelf.md) |
+| Subarray Sum Equals K           | 560        | Prefix Sum + HashMap          | [Subarray Sum Equals K](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/SubArraySumEqualsK.md)              |
+| Maximum Circular Subarray       | 918        | Kadane + Total - MinSubarray  | [Maximum Circular Subarray](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumCircularSubarray.md)     |
+| Maximum Subarray of Size K      | 325        | Sliding Window                | [Maximum Subarray of Size K](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumSubArrayOfSizeK.md)     |
+| Best Time To Buy And Sell Stock | 121        | Greedy / Track MinPrice       | [BestTimeToBuyAndSellStock](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/BestTimeToBuyAndSellStock.md)   |
+| 3Sum                            | 15         | Sorting + Two Pointers        | [3Sum](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/3_Sum.md)                                            |
 
-| Problem | LeetCode # | Link |
-|---------|------------|------|
-| Two Sum | 1 | [Two Sum](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/TwoSum.md) |
-| Maximum Subarray | 53 | [Maximum Subarray](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumSubArray.md) |
-| Rotate Array | 189 | [Rotate Array](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/RotateArray.md) |
-| Container With Most Water | 11 | [Container With Most Water](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/ContainerWithMostWater.md) |
-| Trapping Rain Water | 42 | [Trapping Rain Water](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/TrappingRainWater.md) |
-| Product of Array Except Self | 238 | [Product Of Array Except Self](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/ProductOfArrayExceptSelf.md) |
-| Subarray Sum Equals K | 560 | [Subarray Sum Equals K](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/SubArraySumEqualsK.md) |
-| Maximum Circular Subarray | 918 | [Maximum Circular Subarray](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumCircularSubarray.md) |
-| Maximum Subarray of Size K | 325 | [Maximum Subarray of Size K](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumSubArrayOfSizeK.md) |
-| BestTimeTo BuyAnd Sell Stock | 121 | https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/BestTimeToBuyAndSellStock.md
-| 3sum | 15 | https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/3_Sum.md
 
 
 
