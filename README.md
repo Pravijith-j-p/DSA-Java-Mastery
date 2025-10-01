@@ -24,6 +24,7 @@ It includes:
 | Maximum Circular Subarray | 918 | [Maximum Circular Subarray](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumCircularSubarray.md) |
 | Maximum Subarray of Size K | 325 | [Maximum Subarray of Size K](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumSubArrayOfSizeK.md) |
 | BestTimeTo BuyAnd Sell Stock | 121 | https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/BestTimeToBuyAndSellStock.md
+| 3sum | 15 | https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/3_Sum.md
 
 
 
