@@ -26,8 +26,6 @@ Arrays
 | 3Sum                            | 15         | Sorting + Two Pointers        | [3Sum](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/3_Sum.md)                                            |
 
 
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/04216375-3067-4c1a-8a04-1ab0f25178b0" />
-
 
 HashMap / HashSet
 
