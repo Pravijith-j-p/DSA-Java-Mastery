@@ -31,7 +31,7 @@ Arrays
 | Maximum Subarray of Size K      | 325        | Sliding Window                | [Maximum Subarray of Size K](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/MaximumSubArrayOfSizeK.md)     |
 | Best Time To Buy And Sell Stock | 121        | Greedy / Track MinPrice       | [BestTimeToBuyAndSellStock](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/BestTimeToBuyAndSellStock.md)   |
 | 3Sum                            | 15         | Sorting + Two Pointers        | [3Sum](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/3_Sum.md)                                            |
-| Search In Rotated Sorted Array  | 33         | Modified Binary Search        | https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/SearchInRotatedSortedArray.md                               |
+| Search In Rotated Sorted Array  | 33         | Modified Binary Search        | [Search In Rotated Sorted Array](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/SearchInRotatedSortedArray.md|
 
 
 HashMap / HashSet
