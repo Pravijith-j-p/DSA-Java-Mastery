@@ -1,18 +1,17 @@
 Strings
 
-| Problem                                        | LeetCode # | Pattern / Key Idea          | Link                                                                                                                               |
-| ---------------------------------------------- | ---------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Longest Substring Without Repeating Characters | 3          | Sliding Window + HashSet    | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/LongestSubstringWithoutRepeatingCharacters.md) |
-| Valid Palindrome                               | 125        | Two Pointers                | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/ValidPalindrome.md)                            |
-| Reverse Words in a String                      | 151        | Two Pointers / String Split | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/ReverseWordsInAString.md)                      |
-| String to Integer (atoi)                       | 8          | Parsing + Edge Cases        | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/StringToIntegerAtoi.md)                        |
-| Longest Palindromic Substring                  | 5          | Expand Around Center / DP   | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/LongestPalindromicSubstring.md)                |
-| Group Anagrams                                 | 49         | HashMap / Sorting           | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/GroupAnagrams.md)                              |
-| Implement strStr()                             | 28         | Sliding Window / KMP        | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/ImplementStrStr.md)                            |
-| Minimum Window Substring                       | 76         | Sliding Window + HashMap    | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/MinimumWindowSubstring.md)                     |
-| Decode String                                  | 394        | Stack / Recursion           | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/DecodeString.md)                               |
-| Valid Parentheses                              | 20         | Stack                       | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/ValidParentheses.md)                           |
-
+| Problem                                        | LeetCode # | Pattern / Key Idea          |                                                                                                                             
+| ---------------------------------------------- | ---------- | --------------------------- |  
+| Longest Substring Without Repeating Characters | 3          | Sliding Window + HashSet    | 
+| Valid Palindrome                               | 125        | Two Pointers                | 
+| Reverse Words in a String                      | 151        | Two Pointers / String Split | 
+| String to Integer (atoi)                       | 8          | Parsing + Edge Cases        | 
+| Longest Palindromic Substring                  | 5          | Expand Around Center / DP   | 
+| Group Anagrams                                 | 49         | HashMap / Sorting           |
+| Implement strStr()                             | 28         | Sliding Window / KMP        |
+| Minimum Window Substring                       | 76         | Sliding Window + HashMap    |
+| Decode String                                  | 394        | Stack / Recursion           |
+| Valid Parentheses                              | 20         | Stack                       |
 
 💡 Patterns to remember for Strings in MAANG interviews:
 
