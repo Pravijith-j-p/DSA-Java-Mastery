@@ -47,6 +47,5 @@ Strings
 | Valid Anagram | 242 | HashMap / Frequency Counting | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Valid_Anagram.md) |
 | Valid Palindrome | 125 | Two Pointers | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Valid_Palindrome.md) |
 
-| Longest Substring with At Most K Distinct Characters | 340 | Sliding Window + HashMap | [Longest Substring with At Most K Distinct Characters](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md) |
 
 
