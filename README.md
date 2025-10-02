@@ -36,9 +36,17 @@ Arrays
 
 Strings 
 
+## Strings
+
 | Problem | LeetCode # | Pattern / Key Idea | Link |
 |---------|------------|------------------|------|
-| Longest Substring Without Repeating Characters | 3 | Sliding Window + HashSet | [Longest Substring Without Repeating Characters](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_SubString_Without_Repeating_characters.md) |
+| Longest Substring Without Repeating Characters | 3 | Sliding Window + HashSet | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_SubString_Without_Repeating_characters.md) |
+| Longest Substring with At Most K Distinct Characters | 340 | Sliding Window + HashMap | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md) |
+| Group Anagrams | 49 | HashMap / Sorting | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Group_Anagrams.md) |
+| Longest Palindromic Substring | 5 | Expand Around Center / DP | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/LongestPalindromicSubstring.md) |
+| Valid Anagram | 242 | HashMap / Frequency Counting | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Valid_Anagram.md) |
+| Valid Palindrome | 125 | Two Pointers | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Valid_Palindrome.md) |
+
 | Longest Substring with At Most K Distinct Characters | 340 | Sliding Window + HashMap | [Longest Substring with At Most K Distinct Characters](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md) |
 
 
