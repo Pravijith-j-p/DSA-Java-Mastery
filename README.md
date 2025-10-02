@@ -36,8 +36,9 @@ Arrays
 
 Strings 
 
-| Problem                         | LeetCode # | Pattern / Key Idea            | Link                                                                                                                                    |
-| ------------------------------- | ---------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| LongestSubStringWithoutRepeating Characters | 33    | Sliding window + HashSet| https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_SubString_Without_Repeating_characters.md         |
-| LongestSubStringwithAtMostKDistinctCharacters| 340  | SlidingWindow + HashMap | https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md   |
+| Problem | LeetCode # | Pattern / Key Idea | Link |
+|---------|------------|------------------|------|
+| Longest Substring Without Repeating Characters | 3 | Sliding Window + HashSet | [Longest Substring Without Repeating Characters](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_SubString_Without_Repeating_characters.md) |
+| Longest Substring with At Most K Distinct Characters | 340 | Sliding Window + HashMap | [Longest Substring with At Most K Distinct Characters](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md) |
+
 
