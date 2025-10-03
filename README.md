@@ -48,6 +48,17 @@ It includes:
 | Longest Repeating Character Replacement | 424 | Sliding Window + Frequency Map | [Longest Repeating Character Replacement](problems/strings/LongestRepeatingCharacterReplacement.md) |
 | Minimum Window Substring | 76 | Sliding Window + HashMap | [Minimum Window Substring](problems/strings/MinimumWindowSubString.md) |
 | Palindromic Substrings | 647 | Expand Around Center | [Palindromic Substrings](problems/strings/Palindromic_Substrings.md) |
+
+3.Linked Lists
+
+| Problem                          | LeetCode # | Pattern / Key Idea            | Link |
+|----------------------------------|------------|-------------------------------|------|
+| Linked List Cycle                | 141        | Two Pointers (Floyd’s Cycle Detection) | [Linked List Cycle](problems/LinkedList/LinkedListCycle.md) |
+| Merge Two Sorted Lists           | 21         | Iterative / Recursive Merge   | [Merge Two Sorted Lists](problems/LinkedList/MergeTwoSortedList.md) |
+| Merge k Sorted Lists             | 23         | Min Heap / Divide & Conquer   | [Merge k Sorted Lists](problems/LinkedList/MergekSortedList.md) |
+| Remove Nth Node from End of List | 19         | Two Pointers                  | [Remove Nth Node from End of List](problems/LinkedList/RemoveNthNodefromEndoftheList.md) |
+| Reorder List                     | 143        | Split + Reverse + Merge       | [Reorder List](problems/LinkedList/ReorderList.md) |
+| Reverse Linked List              | 206        | Iterative / Recursive         | [Reverse Linked List](problems/LinkedList/ReverseLinkedList.md) |
 | Encode and Decode Strings | 271 | Custom Encoding (Delimiter) | [Encode and Decode Strings](problems/strings/Encode_And_Decode_Strings.md) |
  
 
