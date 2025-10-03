@@ -44,31 +44,32 @@ Use three pointers:
 Traverse array once, swapping elements to thier correct position
 
 Steps :
-1. Initialize low =0;mid = 0;high = 0;
+1. Initialize low =0;mid = 0;high = nums.length - 1;
 2. While mid <= high:
     - if (nums[mid] == 0) ->swap with low, move both
     - if (nums[mid] == 1) -> just move mid
     - if (nums[mid] == 2) -> swap with high, move high (not mid)
 
                             public void sortColors(int [] nums){
-                                int low=0,mid=0,high=0;
+                                int low=0,mid=0,high= nums.length -1;
 
                                 while(mid<= high){
                                     if(nums[mid] == 0){
-                                        int temp = nums[low];
-                                        nums[low] = nums[mid];
-                                        nums[mid] = temp;
+                                        swap(nums, low, mid);
                                         low ++;
                                         mid ++;
                                     }else if (nums[mid] == 1){
                                         mid ++;
                                     }else{
-                                        int temp = nums[mid];
-                                        nums[mid] = nums[high];
-                                        nums[high] = temp;
+                                        swap(nums, mid, high)
                                         high--;
                                     }
                                 }
+                            }
+                            private void swap(int[] nums, int i, int j){
+                                int temp = nums[i];
+                                nums[i] = nums[j];
+                                nums[j] = temp;
                             }
 
 Time complexity : O(n)
