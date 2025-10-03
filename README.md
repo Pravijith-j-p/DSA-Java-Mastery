@@ -16,7 +16,7 @@ It includes:
 
 📂 Topics & Problems
 
-Arrays
+1. Arrays
 
 | Problem | LeetCode # | Pattern / Key Idea | Link |
 |---------|------------|------------------|------|
@@ -34,18 +34,21 @@ Arrays
 | Search In Rotated Sorted Array | 33 | Modified Binary Search | [Search In Rotated Sorted Array](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/SearchInRotatedSortedArray.md) |
 
 
-Strings 
-
-## Strings
+2. Strings 
 
 | Problem | LeetCode # | Pattern / Key Idea | Link |
-|---------|------------|------------------|------|
-| Longest Substring Without Repeating Characters | 3 | Sliding Window + HashSet | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_SubString_Without_Repeating_characters.md) |
-| Longest Substring with At Most K Distinct Characters | 340 | Sliding Window + HashMap | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md) |
-| Group Anagrams | 49 | HashMap / Sorting | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Group_Anagrams.md) |
-| Longest Palindromic Substring | 5 | Expand Around Center / DP | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/LongestPalindromicSubstring.md) |
-| Valid Anagram | 242 | HashMap / Frequency Counting | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Valid_Anagram.md) |
-| Valid Palindrome | 125 | Two Pointers | [Link](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/strings/Valid_Palindrome.md) |
-
+|---------|------------|---------------------|------|
+| Longest Substring Without Repeating Characters | 3 | Sliding Window + HashSet | [Longest Substring Without Repeating Characters](problems/strings/Longest_SubString_Without_Repeating_characters.md) |
+| Longest Substring with At Most K Distinct Characters | 340 | Sliding Window + HashMap | [Longest Substring with At Most K Distinct Characters](problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md) |
+| Group Anagrams | 49 | Sorting / HashMap (Key → Signature) | [Group Anagrams](problems/strings/Group_Anagrams.md) |
+| Longest Palindromic Substring | 5 | Expand Around Center / DP | [Longest Palindromic Substring](problems/strings/LongestPalindromicSubString.md) |
+| Valid Anagram | 242 | Frequency Count (HashMap / Array) | [Valid Anagram](problems/strings/Valid_Anagram.md) |
+| Valid Palindrome | 125 | Two Pointers | [Valid Palindrome](problems/strings/Valid_Palindrome.md) |
+| Valid Parentheses | 20 | Stack | [Valid Parentheses](problems/strings/Valid_Parentheses.md) |
+| Longest Repeating Character Replacement | 424 | Sliding Window + Frequency Map | [Longest Repeating Character Replacement](problems/strings/LongestRepeatingCharacterReplacement.md) |
+| Minimum Window Substring | 76 | Sliding Window + HashMap | [Minimum Window Substring](problems/strings/MinimumWindowSubString.md) |
+| Palindromic Substrings | 647 | Expand Around Center | [Palindromic Substrings](problems/strings/Palindromic_Substrings.md) |
+| Encode and Decode Strings | 271 | Custom Encoding (Delimiter) | [Encode and Decode Strings](problems/strings/Encode_And_Decode_Strings.md) |
+ 
 
 
