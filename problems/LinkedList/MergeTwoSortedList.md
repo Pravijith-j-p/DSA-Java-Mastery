@@ -72,7 +72,7 @@ Idea :
 Time Complexity : O(m + n)
 Space complexity : O(1)
 
-🔵 Recursive Version
+🔵 Recursive Version -> More Efficient
 
                     public ListNode mergeTwoLists(ListNode list1, ListNode list2){
                         if(list1 == null) return list2;
