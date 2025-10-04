@@ -36,7 +36,7 @@ It includes:
 
 2. Strings 
 
-| Problem | LeetCode # | Pattern / Key Idea | Link |
+|| Problem | LeetCode # | Pattern / Key Idea | Link |
 |---------|------------|---------------------|------|
 | Longest Substring Without Repeating Characters | 3 | Sliding Window + HashSet | [Longest Substring Without Repeating Characters](problems/strings/Longest_SubString_Without_Repeating_characters.md) |
 | Longest Substring with At Most K Distinct Characters | 340 | Sliding Window + HashMap | [Longest Substring with At Most K Distinct Characters](problems/strings/Longest_Substring_with_At_Most_K_Distinct_Characters.md) |
@@ -48,6 +48,8 @@ It includes:
 | Longest Repeating Character Replacement | 424 | Sliding Window + Frequency Map | [Longest Repeating Character Replacement](problems/strings/LongestRepeatingCharacterReplacement.md) |
 | Minimum Window Substring | 76 | Sliding Window + HashMap | [Minimum Window Substring](problems/strings/MinimumWindowSubString.md) |
 | Palindromic Substrings | 647 | Expand Around Center | [Palindromic Substrings](problems/strings/Palindromic_Substrings.md) |
+| Permutation in String | 567 | Sliding Window + Frequency Count | [Permutation in String](problems/strings/Permutation_in_String.md) |
+| Encode and Decode Strings | 271 | Custom Encoding (Delimiter) | [Encode and Decode Strings](problems/strings/Encode_And_Decode_Strings.md) |
 
 3.Linked Lists
 
@@ -59,7 +61,7 @@ It includes:
 | Remove Nth Node from End of List | 19         | Two Pointers                  | [Remove Nth Node from End of List](problems/LinkedList/RemoveNthNodefromEndoftheList.md) |
 | Reorder List                     | 143        | Split + Reverse + Merge       | [Reorder List](problems/LinkedList/ReorderList.md) |
 | Reverse Linked List              | 206        | Iterative / Recursive         | [Reverse Linked List](problems/LinkedList/ReverseLinkedList.md) |
-| Encode and Decode Strings | 271 | Custom Encoding (Delimiter) | [Encode and Decode Strings](problems/strings/Encode_And_Decode_Strings.md) |
+
  
 
 
