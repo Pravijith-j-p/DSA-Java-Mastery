@@ -1,19 +1,19 @@
 Arrays (16 Essential Problems)
 Must-solve problems
-	•	Two Sum (LeetCode 1)
-	•	Best Time to Buy and Sell Stock (LeetCode 121)
+	•	Two Sum (LeetCode 1) ✅
+	•	Best Time to Buy and Sell Stock (LeetCode 121) ✅
 	•	Contains Duplicate (LeetCode 217)
-	•	Product of Array Except Self (LeetCode 238)
-	•	Maximum Subarray (LeetCode 53)
-	•	3Sum (LeetCode 15)
-	•	Container With Most Water (LeetCode 11)
-	•	Search in Rotated Sorted Array (LeetCode 33)
-	•	Trapping Rain Water (LeetCode 42)
+	•	Product of Array Except Self (LeetCode 238) ✅
+	•	Maximum Subarray (LeetCode 53) ✅
+	•	3Sum (LeetCode 15) ✅
+	•	Container With Most Water (LeetCode 11) ✅
+	•	Search in Rotated Sorted Array (LeetCode 33) ✅
+	•	Trapping Rain Water (LeetCode 42) ✅
 	•	Median of Two Sorted Arrays (LeetCode 4)
 	•	Plus One (LeetCode 66)
 	•	Merge Intervals (LeetCode 56)
-	•	Subarray Sum Equals K (LeetCode 560)
-	•	Maximum Product Subarray (LeetCode 152)
+	•	Subarray Sum Equals K (LeetCode 560) ✅
+	•	Maximum Product Subarray (LeetCode 152) ✅
 	•	Find Minimum in Rotated Sorted Array (LeetCode 153)
 	•	First Missing Positive (LeetCode 41)
 
@@ -65,18 +65,18 @@ Key patterns: DFS traversals, BFS level-order, BST properties, recursion, iterat
 
 Strings (12 Essential Problems)
 Must-solve problems
-	•	Valid Anagram (LeetCode 242)
-	•	Valid Parentheses (LeetCode 20)
-	•	Longest Substring Without Repeating Characters (LeetCode 3)
-	•	Longest Palindromic Substring (LeetCode 5)
-	•	Group Anagrams (LeetCode 49)
-	•	Minimum Window Substring (LeetCode 76)
+	•	Valid Anagram (LeetCode 242) ✅
+	•	Valid Parentheses (LeetCode 20) ✅
+	•	Longest Substring Without Repeating Characters (LeetCode 3) ✅
+	•	Longest Palindromic Substring (LeetCode 5) ✅
+	•	Group Anagrams (LeetCode 49) ✅
+	•	Minimum Window Substring (LeetCode 76) ✅
 	•	Text Justification (LeetCode 68)
 	•	Regular Expression Matching (LeetCode 10)
-	•	Palindromic Substrings (LeetCode 647)
+	•	Palindromic Substrings (LeetCode 647) ✅
 	•	Longest Common Prefix (LeetCode 14)
 	•	Valid Palindrome II (LeetCode 680)
-	•	Longest Repeating Character Replacement (LeetCode 424)
+	•	Longest Repeating Character Replacement (LeetCode 424) ✅
 Key patterns: Sliding window, string matching, palindrome detection, expand around center, hash map
 
 
@@ -128,12 +128,12 @@ Key patterns: Hash lookups, collision handling, frequency counting, two-pointer 
 
 Medium Priority
 Linked Lists (10 Essential Problems)
-	•	Reverse Linked List (LeetCode 206)
-	•	Merge Two Sorted Lists (LeetCode 21)
-	•	Linked List Cycle (LeetCode 141)
-	•	Remove Nth Node From End (LeetCode 19)
-	•	Reorder List (LeetCode 143)
-	•	Merge k Sorted Lists (LeetCode 23)
+	•	Reverse Linked List (LeetCode 206) ✅
+	•	Merge Two Sorted Lists (LeetCode 21) ✅
+	•	Linked List Cycle (LeetCode 141) ✅
+	•	Remove Nth Node From End (LeetCode 19) ✅
+	•	Reorder List (LeetCode 143) 
+	•	Merge k Sorted Lists (LeetCode 23) ✅
 	•	Reverse Nodes in k-Group (LeetCode 25)
 	•	Copy List with Random Pointer (LeetCode 138)
 	•	Add Two Numbers (LeetCode 2)
