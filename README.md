@@ -63,5 +63,9 @@ It includes:
 | Reverse Linked List              | 206        | Iterative / Recursive         | [Reverse Linked List](problems/LinkedList/ReverseLinkedList.md) |
 
  
+| Problem | LeetCode # | Pattern / Key Idea | Link |
+|----------|-------------|---------------------|------|
+| Min Stack | 155 | Stack + Auxiliary Stack (Track Min Value) | [Min Stack](problems/stacks/MinStack.md) |
+| Evaluate Reverse Polish Notation | 150 | Stack | [Evaluate Reverse Polish Notation](problems/stacks/Evaluate_Reverse_Polish_Notation.md) |
 
 
