@@ -62,7 +62,8 @@ It includes:
 | Reorder List                     | 143        | Split + Reverse + Merge       | [Reorder List](problems/LinkedList/ReorderList.md) |
 | Reverse Linked List              | 206        | Iterative / Recursive         | [Reverse Linked List](problems/LinkedList/ReverseLinkedList.md) |
 
- 
+4. Stacks
+
 | Problem | LeetCode # | Pattern / Key Idea | Link |
 |----------|-------------|---------------------|------|
 | Min Stack | 155 | Stack + Auxiliary Stack (Track Min Value) | [Min Stack](problems/stacks/MinStack.md) |
