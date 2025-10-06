@@ -63,24 +63,24 @@ Steps :
 - push current index i to stack
 - remaining indices in the stack have no warmer days 0-> by default
 
-import jav.util.Stack;
+                            import jav.util.Stack;
 
-class Solution{
-    public int[] dailyTempreatures(int[] tempreatures){
-        int n = tempreatures.length;
-        int [] ans = new int[n];
-        Stack<Integer> stack = new Stack<>();
+                            class Solution{
+                                public int[] dailyTempreatures(int[] tempreatures){
+                                    int n = tempreatures.length;
+                                    int [] ans = new int[n];
+                                    Stack<Integer> stack = new Stack<>();
 
-        for(int i = 0;i<n;i++){
-            while(!stack.isEmpty()&& tempreatures[i]>tempreature[stack.peek()]){
-                int prev = stack.pop();
-                ans[prev] = i - prev;
-            }
-            stack.push(i);
-        }
-        return ans;
-    }
-}
+                                    for(int i = 0;i<n;i++){
+                                        while(!stack.isEmpty()&& tempreatures[i]>tempreature[stack.peek()]){
+                                            int prev = stack.pop();
+                                            ans[prev] = i - prev;
+                                        }
+                                        stack.push(i);
+                                    }
+                                    return ans;
+                                }
+                            }
 
 Time complexity : O(n)
 Space Complexity : O(n)
