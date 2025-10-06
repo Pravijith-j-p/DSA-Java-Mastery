@@ -16,7 +16,7 @@ It includes:
 
 📂 Topics & Problems
 
-1. Arrays
+❇️ Arrays
 
 | Problem | LeetCode # | Pattern / Key Idea | Link |
 |---------|------------|------------------|------|
@@ -34,7 +34,7 @@ It includes:
 | Search In Rotated Sorted Array | 33 | Modified Binary Search | [Search In Rotated Sorted Array](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/arrays/SearchInRotatedSortedArray.md) |
 
 
-2. Strings 
+❇️ Strings 
 
 | Problem | LeetCode # | Pattern / Key Idea | Link |
 |---------|------------|---------------------|------|
@@ -51,7 +51,7 @@ It includes:
 | Permutation in String | 567 | Sliding Window + Frequency Count | [Permutation in String](problems/strings/Permutation_in_String.md) |
 | Encode and Decode Strings | 271 | Custom Encoding (Delimiter) | [Encode and Decode Strings](problems/strings/Encode_And_Decode_Strings.md) |
 
-3.Linked Lists
+❇️ Linked Lists
 
 | Problem                          | LeetCode # | Pattern / Key Idea            | Link |
 |----------------------------------|------------|-------------------------------|------|
@@ -62,11 +62,13 @@ It includes:
 | Reorder List                     | 143        | Split + Reverse + Merge       | [Reorder List](problems/LinkedList/ReorderList.md) |
 | Reverse Linked List              | 206        | Iterative / Recursive         | [Reverse Linked List](problems/LinkedList/ReverseLinkedList.md) |
 
-4. Stacks
+❇️ Stacks
 
 | Problem | LeetCode # | Pattern / Key Idea | Link |
 |----------|-------------|---------------------|------|
 | Min Stack | 155 | Stack + Auxiliary Stack (Track Min Value) | [Min Stack](problems/stacks/MinStack.md) |
 | Evaluate Reverse Polish Notation | 150 | Stack | [Evaluate Reverse Polish Notation](problems/stacks/Evaluate_Reverse_Polish_Notation.md) |
+| Daily Temperatures | 739 | Monotonic Stack (Next Greater Element) | [Daily Temperatures](problems/stacks/Daily_Temperatures.md) |
+
 
 
