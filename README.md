@@ -69,6 +69,7 @@ It includes:
 | Min Stack | 155 | Stack + Auxiliary Stack (Track Min Value) | [Min Stack](problems/stacks/MinStack.md) |
 | Evaluate Reverse Polish Notation | 150 | Stack | [Evaluate Reverse Polish Notation](problems/stacks/Evaluate_Reverse_Polish_Notation.md) |
 | Daily Temperatures | 739 | Monotonic Stack (Next Greater Element) | [Daily Temperatures](problems/stacks/Daily_Temperatures.md) |
+| Largest Rectangle in Histogram | 84 | Monotonic Stack (Next Smaller to Left & Right) | [Largest Rectangle in Histogram](problems/stacks/Largest_Rectangle_in_Histogram.md) |
 
 
 
