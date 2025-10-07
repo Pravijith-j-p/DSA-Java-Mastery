@@ -71,5 +71,8 @@ It includes:
 | Daily Temperatures | 739 | Monotonic Stack (Next Greater Element) | [Daily Temperatures](problems/stacks/Daily_Temperatures.md) |
 | Largest Rectangle in Histogram | 84 | Monotonic Stack (Next Smaller to Left & Right) | [Largest Rectangle in Histogram](problems/stacks/Largest_Rectangle_in_Histogram.md) |
 
-
+❇️ Trees(BFS,DFS, Traversal)
+| Problem | LeetCode # | Pattern / Key Idea | Link |
+|----------|-------------|--------------------|------|
+| Maximum Depth of Binary Tree | 104 | DFS / BFS | [Maximum Depth of Binary Tree](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees/MaximumDepthofBinaryTree.md) |
 
