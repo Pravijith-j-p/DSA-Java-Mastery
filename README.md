@@ -72,7 +72,14 @@ It includes:
 | Largest Rectangle in Histogram | 84 | Monotonic Stack (Next Smaller to Left & Right) | [Largest Rectangle in Histogram](problems/stacks/Largest_Rectangle_in_Histogram.md) |
 
 ❇️ Trees(BFS,DFS, Traversal)
-| Problem | LeetCode # | Pattern / Key Idea | Link |
-|----------|-------------|--------------------|------|
-| Maximum Depth of Binary Tree | 104 | DFS / BFS | [Maximum Depth of Binary Tree](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees/MaximumDepthofBinaryTree.md) |
+| Problem                           | LeetCode # | Pattern / Key Idea              | Link                                                                                                                                                                        |
+| --------------------------------- | ---------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Maximum Depth of Binary Tree      | 104        | DFS / Recursion                 | [Maximum Depth of Binary Tree](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/Maximum_Depth_Of_Binarytree.md)            |
+| Same Tree                         | 100        | DFS / Recursive Comparison      | [Same Tree](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/SameTree.md)                                                  |
+| Invert Binary Tree                | 226        | DFS / Recursion (Swap Children) | [Invert Binary Tree](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/InvertBinaryTree.md)                                 |
+| Subtree of Another Tree           | 572        | DFS + Subtree Matching          | [Subtree of Another Tree](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/SubTree_Of_Another_Tree.md)                     |
+| Binary Tree Level Order Traversal | 102        | BFS / Queue                     | [Binary Tree Level Order Traversal](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/Binary_Tree_Level_Order_Traversal.md) |
+| Binary Tree Right Side View       | 199        | BFS / Level-wise Last Node      | [Binary Tree Right Side View](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/Binary_Tree_Right_Side_View.md)             |
+| Diameter of a Binary Tree         | 543        | DFS + Track Longest Path        | [Diameter of a Binary Tree](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/DiameterOfA_Binary_Tree.md)                   |
+
 
