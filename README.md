@@ -82,4 +82,14 @@ It includes:
 | Binary Tree Right Side View       | 199        | BFS / Level-wise Last Node      | [Binary Tree Right Side View](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/Binary_Tree_Right_Side_View.md)             |
 | Diameter of a Binary Tree         | 543        | DFS + Track Longest Path        | [Diameter of a Binary Tree](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Trees%28BFS,DFS,Traversal%29/DiameterOfA_Binary_Tree.md)                   |
 
+❇️ Trees(Advanced and BST)
+
+| Problem                                                   | LeetCode # | Pattern / Key Idea                          | Link                                                                                                                                                                 |
+| --------------------------------------------------------- | ---------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Binary Tree Maximum Path Sum                              | 124        | DFS + Postorder Traversal (Global Max Path) | [Binary Tree Maximum Path Sum](problems/Tree%20%28Advanced%20%26%20BST%29/Binary_Tree_Maximum_Sum_Path.md)                                                           |
+| Construct Binary Tree from Preorder and Inorder Traversal | 105        | Recursion + HashMap (Divide & Conquer)      | [Construct Binary Tree from Preorder and Inorder Traversal](problems/Tree%20%28Advanced%20%26%20BST%29/Construct_Binary_Tree_From_Preorder_and_Inorder_Traversal.md) |
+| kth Smallest Element in a BST                             | 230        | Inorder Traversal (DFS)                     | [kth Smallest Element in a BST](problems/Tree%20%28Advanced%20%26%20BST%29/kth_Smallest_Element_in_a_BST.md)                                                         |
+| Lowest Common Ancestor of a Binary Search Tree            | 235        | BST Property + Recursion                    | [Lowest Common Ancestor of a Binary Search Tree](problems/Tree%20%28Advanced%20%26%20BST%29/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)                       |
+| Serialize and Deserialize Binary Tree                     | 297        | BFS / DFS Encoding & Decoding               | [Serialize and Deserialize Binary Tree](problems/Tree%20%28Advanced%20%26%20BST%29/Serialize_and_Deserialise_Binary_Tree.md)                                         |
+| Validate Binary Search Tree                               | 98         | Inorder Traversal + Range Validation        | [Validate Binary Search Tree](problems/Tree%20%28Advanced%20%26%20BST%29/Validate_Binary_Search_Tree.md)                                                             |
 
