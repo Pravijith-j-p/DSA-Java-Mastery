@@ -21,9 +21,9 @@ nums = [0,1,0,3,2,3]```
 
 Optimized approach - Binary search
 
-class Solution {
-    public int lengthOfLIS(int[] nums) {
-        List<Integer> lis = new ArrayList<>();
+        class Solution {
+            public int lengthOfLIS(int[] nums) {
+                List<Integer> lis = new ArrayList<>();
 
         for (int num : nums) {
             int pos = Collections.binarySearch(lis, num);
@@ -34,4 +34,4 @@ class Solution {
 
         return lis.size();
     }
-}
+    }
