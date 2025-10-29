@@ -159,6 +159,28 @@ It includes:
 | Number of Connected Components (Undirected) | 323        | DFS / Union-Find for counting components             | [Number of Connected Components](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%28BFS%2FDFS%2FUnionFind%29/Number%20of%20Connected%20Componenets%20in%20an%20Undirected%20Graph.md) |
 | Number of Islands                           | 200        | DFS Flood Fill / BFS (Count Land Components)         | [Number of Islands](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%28BFS%2FDFS%2FUnionFind%29/Number%20of%20Islands.md)                                                             |
 | Pacific Atlantic Water Flow                 | 417        | Reverse Flow BFS/DFS from Pacific & Atlantic         | [Pacific Atlantic Water Flow](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%28BFS%2FDFS%2FUnionFind%29/Pacific%20Atlantic%20Water%20Flow.md)                                       |
+
+❇️ Graph(Advanced and Shortest Path)
+
+| Problem                           | LeetCode # | Pattern / Key Idea                                          | Link                                                                                                                                                                                                  |
+| --------------------------------- | ---------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alien Dictionary                  | 269        | Topological Sort on custom alphabet ordering; detect cycles | [Alien Dictionary](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%20%28Advanced%20and%20Shortest%20Path%29/Alien%20Dictionary.md)                                         |
+| Cheapest Flights Within K Stops   | 787        | Bellman–Ford with (k+1) relaxations / BFS-like DP           | [Cheapest Flight Within K Stops](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%20%28Advanced%20and%20Shortest%20Path%29/Cheapest%20Flight%20Within%20K%20Stops.md)       |
+| Critical Connections in a Network | 1192       | Tarjan’s Algorithm (Bridges in Graph) using DFS low-link    | [Critical Connections In a Network](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%20%28Advanced%20and%20Shortest%20Path%29/Critical%20Connections%20In%20a%20Network.md) |
+| Network Delay Time                | 743        | Dijkstra’s Algorithm (Min-Heap)                             | [Network Delay Time](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%20%28Advanced%20and%20Shortest%20Path%29/Network%20Delay%20Time.md)                                   |
+| Word Ladder                       | 127        | BFS on implicit graph with pattern-matching optimization    | [Word Ladder](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%20%28Advanced%20and%20Shortest%20Path%29/Word%20Ladder.md)                                                   |
+
 | Redundant Connection                        | 684        | Union-Find (detect first edge forming a cycle)       | [Redundant Connection](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Graph%28BFS%2FDFS%2FUnionFind%29/Redundant%20Connection.md)                                                         |
+
+❇️ Binary Search
+
+| Problem                     | LeetCode # | Pattern / Key Idea                                                | Link                                                                                                                                                       |
+| --------------------------- | ---------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Binary Search               | 704        | Classic binary search technique (search in sorted array)          | [Binary Search](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Binary%20Search/Binary%20Search.md)                                   |
+| Koko Eating Bananas         | 875        | Binary Search on Answer — find minimum feasible eating speed      | [Koko Eating Bananas](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Binary%20Search/koko%20Eating%20Bananas.md)                     |
+| Median of Two Sorted Arrays | 4          | Partition-based binary search on smaller array (O(log(min(n,m)))) | [Median Of Two Sorted Arrays](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Binary%20Search/Median%20Of%20Two%20Sorted%20Arrays.md) |
+| Search a 2D Matrix          | 74         | Treat matrix as 1D sorted array and binary search                 | [Search a 2D Matrix](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Binary%20Search/Search%20a%202D%20Matrix.md)                     |
+| Time Based Key Value Store  | 981        | Binary search on timestamps per key; hashmap + list storage       | [Time Based Key Value Store](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Binary%20Search/Time%20Based%20Key%20Value%20Store.md)   |
+
 
 
