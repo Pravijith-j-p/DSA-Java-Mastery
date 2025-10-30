@@ -192,6 +192,18 @@ It includes:
 | Non-Overlapping Intervals              | 435        | Greedy—select intervals with earliest end; minimize removals                  | [Non-Overlapping Intervals](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Non%20-%20Overlapping%20Intervals.md)                             |
 | Meeting Rooms                          | 252        | Sort by start; check if any adjacent meetings overlap                         | [Meeting Rooms](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Meeting%20Rooms.md)                                                           |
 | Meeting Rooms II                       | 253        | Min-heap of meeting end times; count maximum rooms in use                     | [Meeting Rooms II](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Meeting%20Rooms%20II.md)                                                   |
+
+❇️ Greedy 
+
+| Problem                                   | LeetCode # | Pattern / Key Idea                                                                    | Link                                                                                                                                             |
+| ----------------------------------------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Jump Game**                             | 55         | Track the farthest reachable index using greedy range expansion                       | [Jump Game](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Jump%20Game.md)                                          |
+| **Jump Game II**                          | 45         | Greedy level-based jumps (BFS-like) to count minimum jumps                            | [Jump Game II](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Jump%20Game%20II.md)                                  |
+| **Gas Station**                           | 134        | Only possible if total gas ≥ total cost; find starting point with greedy reset        | [Gas Station](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Gas%20Station.md)                                      |
+| **Hand of Straights**                     | 846        | Always pick the smallest card; use min-heap or TreeMap to build consecutive groups    | [Hand of Straights](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Hand%20Of%20Straights.md)                        |
+| **Merge Triplets to Form Target Triplet** | 1899       | Greedily pick triplets that don’t exceed target; check if all 3 values can be matched | [Merge Triplets](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Merge%20Triplets%20to%20Form%20Target%20Triplet.md) |
+| **Partition Labels**                      | 763        | Greedy expansion using last occurrence of each character                              | [Partition Labels](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Partition%20Labels.md)                            |
+
 | Minimum Interval to Include Each Query | 1851       | Sort intervals & queries; min-heap tracking smallest valid interval per query | [Minimum Interval to Include Each Query](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Minimum%20Interval%20to%20Include%20Each%20Query.md) |
 
 
