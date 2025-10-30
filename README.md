@@ -185,13 +185,15 @@ It includes:
 
 ❇️ Intervals
 
-| Problem                                | LeetCode # | Pattern / Key Idea                                                            | Link                                                                                                                                                                         |
-| -------------------------------------- | ---------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insert Interval                        | 57         | Linear scan; merge only when needed; treat intervals as sorted by start       | [Insert Interval](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Insert%20Interval.md)                                                       |
-| Merge Intervals                        | 56         | Sort by start; merge overlapping intervals                                    | [Merge Intervals](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Merge%20Intervals.md)                                                       |
-| Non-Overlapping Intervals              | 435        | Greedy—select intervals with earliest end; minimize removals                  | [Non-Overlapping Intervals](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Non%20-%20Overlapping%20Intervals.md)                             |
-| Meeting Rooms                          | 252        | Sort by start; check if any adjacent meetings overlap                         | [Meeting Rooms](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Meeting%20Rooms.md)                                                           |
-| Meeting Rooms II                       | 253        | Min-heap of meeting end times; count maximum rooms in use                     | [Meeting Rooms II](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Meeting%20Rooms%20II.md)                                                   |
+| Problem                                    | LeetCode # | Pattern / Key Idea                                                           | Link                                                                                                                                                   |
+| ------------------------------------------ | ---------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Insert Interval**                        | 57         | Merge new interval with existing ones; linear scan + merge                   | [Insert Interval](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Insert%20Interval.md)                                 |
+| **Merge Intervals**                        | 56         | Sort by start and merge overlapping intervals                                | [Merge Intervals](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Merge%20Intervals.md)                                 |
+| **Non-overlapping Intervals**              | 435        | Greedy: sort by end time, remove intervals with conflicts                    | [Non-Overlapping Intervals](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Non%20-%20Overlapping%20Intervals.md)       |
+| **Meeting Rooms**                          | 252        | Check if intervals overlap; sort by start time                               | [Meeting Rooms](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Meeting%20Rooms.md)                                     |
+| **Meeting Rooms II**                       | 253        | Min-heap to track end times; count simultaneous meetings                     | [Meeting Rooms II](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Meeting%20Rooms%20II.md)                             |
+| **Minimum Interval to Include Each Query** | 1851       | Sort intervals + queries; min-heap to track smallest interval covering query | [Minimum Interval](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Minimum%20Interval%20to%20Include%20Each%20Query.md) |
+
 
 ❇️ Greedy 
 
@@ -203,7 +205,4 @@ It includes:
 | **Hand of Straights**                     | 846        | Always pick the smallest card; use min-heap or TreeMap to build consecutive groups    | [Hand of Straights](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Hand%20Of%20Straights.md)                        |
 | **Merge Triplets to Form Target Triplet** | 1899       | Greedily pick triplets that don’t exceed target; check if all 3 values can be matched | [Merge Triplets](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Merge%20Triplets%20to%20Form%20Target%20Triplet.md) |
 | **Partition Labels**                      | 763        | Greedy expansion using last occurrence of each character                              | [Partition Labels](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Greedy/Partition%20Labels.md)                            |
-
-| Minimum Interval to Include Each Query | 1851       | Sort intervals & queries; min-heap tracking smallest valid interval per query | [Minimum Interval to Include Each Query](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Minimum%20Interval%20to%20Include%20Each%20Query.md) |
-
 
