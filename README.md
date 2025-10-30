@@ -183,4 +183,15 @@ It includes:
 | Time Based Key Value Store  | 981        | Binary search on timestamps per key; hashmap + list storage       | [Time Based Key Value Store](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Binary%20Search/Time%20Based%20Key%20Value%20Store.md)   |
 
 
+❇️ Intervals
+
+| Problem                                | LeetCode # | Pattern / Key Idea                                                            | Link                                                                                                                                                                         |
+| -------------------------------------- | ---------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insert Interval                        | 57         | Linear scan; merge only when needed; treat intervals as sorted by start       | [Insert Interval](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Insert%20Interval.md)                                                       |
+| Merge Intervals                        | 56         | Sort by start; merge overlapping intervals                                    | [Merge Intervals](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Merge%20Intervals.md)                                                       |
+| Non-Overlapping Intervals              | 435        | Greedy—select intervals with earliest end; minimize removals                  | [Non-Overlapping Intervals](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Non%20-%20Overlapping%20Intervals.md)                             |
+| Meeting Rooms                          | 252        | Sort by start; check if any adjacent meetings overlap                         | [Meeting Rooms](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Meeting%20Rooms.md)                                                           |
+| Meeting Rooms II                       | 253        | Min-heap of meeting end times; count maximum rooms in use                     | [Meeting Rooms II](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Meeting%20Rooms%20II.md)                                                   |
+| Minimum Interval to Include Each Query | 1851       | Sort intervals & queries; min-heap tracking smallest valid interval per query | [Minimum Interval to Include Each Query](https://github.com/Pravijith-j-p/DSA-Java-Mastery/blob/main/problems/Intervals/Minimum%20Interval%20to%20Include%20Each%20Query.md) |
+
 
